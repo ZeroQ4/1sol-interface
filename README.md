@@ -1,4 +1,4 @@
-# 1sol-interface
+# 1sol-interface.
 ## Deployment
 
 App is using to enviroment variables that can be set before deployment:
